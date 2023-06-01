@@ -3,9 +3,9 @@
 """However
 when writing multi line comment, above # become unusuable so we use 
 """
-"""print("5+3") #stores as string
+print("5+3") #stores as string
 print(5+3) #shows the result as int
-print(5**3) #prints the result of  5^3"""
+print(5**3) #prints the result of  5^3
 
 #Showing Data Type of the written code:
 print(type(5)) #Result : Int
